@@ -1,0 +1,5 @@
+App Name: Web Links Checker
+
+Author: Xuan Yun (gdxuanyun@yahoo.com)
+
+Web links checker provides a GUI that allows you to input a URL and check all links inside.  The app will try to download all links to make sure the links are ok.
